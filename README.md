@@ -1,1 +1,1 @@
-# Game-Theory
+# Game Theory Package
